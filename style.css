@@ -234,8 +234,8 @@ max-width: 50%;
 }
 
 .news-data{
-    width: 49%;
-    height: 100%;
+    width: 588px;
+    height: 235px;
     background-color: rebeccapurple;
     display: -webkit-inline-box;
     display: -ms-inline-flexbox;
