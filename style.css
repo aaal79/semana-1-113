@@ -224,7 +224,7 @@ max-width: 50%;
 .news{
     width: 100%;
     background-color: cadetblue;
-    height: 220px;
+    height: 230px;
     display: -webkit-inline-box;
     display: -ms-inline-flexbox;
     display: inline-flex;
