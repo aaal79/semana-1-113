@@ -67,7 +67,7 @@ body{
     text-align: center;
 }
 
-.section-1{
+.services{
     height: 500px;
     background-color:#D2B4DE;
     border: white 2px ridge;
@@ -103,6 +103,7 @@ body{
   height: 40px;
   display: flex;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color:black;
 
 }
 
@@ -258,12 +259,6 @@ max-width: 50%;
 .news-text > span.news-url{
     text-align: right;
 }
-
-
-.fa-ambulance.news-logo{
-    padding: 0.25em 0;
-}
-
 
 .news-url{
     font-size: 10px;
